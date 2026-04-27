@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "mutations",
+  "name": "Mutations",
+  "authors": ["adams"],
+  "description": "Framework mod: 50% spawn mutation (single roll on load), tiered scale/health/speed/loot/glow, debug spawn commands. AI melee reach reflection removed for server stability.",
+  "version": "0.1.0",
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
